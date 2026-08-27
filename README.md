@@ -14,7 +14,7 @@
   <p>
     <img src="https://img.shields.io/badge/arquitetura-event_driven-17352C?style=flat-square" alt="Arquitetura orientada a eventos" />
     <img src="https://img.shields.io/badge/segurança-policy_engine-27483C?style=flat-square" alt="Segurança por policy engine" />
-    <img src="https://img.shields.io/badge/licença-MIT-FFB84D?style=flat-square" alt="Licença MIT" />
+    <img src="https://img.shields.io/badge/licença-proprietária-FFB84D?style=flat-square" alt="Licença proprietária" />
   </p>
   <p>╾━╤デ╦︻ &nbsp; SIGNALS · ORDERS · MARGIN · CONTROL &nbsp; ︻╦デ╤━╼</p>
 </div>
@@ -186,19 +186,21 @@ Por isso, ainda não há comando de instalação nem screenshot de produto. Quan
 - [ ] testes das regras críticas e da jornada desktop/mobile;
 - [ ] zero telemetria, dependência de nuvem ou chamada paga.
 
-## 🤝 Construindo com responsabilidade
+## 🔒 Desenvolvimento privado
 
-Ideias, discussões e pull requests são bem-vindos, especialmente sobre modelagem de domínio, segurança, simulação determinística, visualização operacional e acessibilidade. Antes de implementar, leia [AGENTS.md](./AGENTS.md) e os documentos em [`docs/`](./docs/).
+Este repositório é público para apresentar a visão e acompanhar a evolução do Mercantarium, mas o projeto **não é open source**. O código, a arquitetura, a documentação, as artes e os demais materiais não podem ser copiados, modificados, redistribuídos ou usados para criar produtos derivados sem autorização prévia e expressa de Gustavo Martins.
 
-Não adicione integrações externas, serviços pagos ou acesso a contas reais sem uma decisão explícita de produto e o respectivo portão de confiança.
+Contribuições externas e pull requests não são aceitos neste momento. O desenvolvimento é privado e dirigido pelo autor.
 
 ## 🤖 Transparência sobre IA
 
 O Mercantarium é desenvolvido com assistência substancial de inteligência artificial. A visão, as escolhas de produto e a direção pertencem a **Gustavo Martins**; arquitetura, implementação, arte conceitual, testes e documentação podem contar com IA, sempre sob supervisão humana e sem esconder limitações.
 
-## 📄 Licença
+## © Direitos autorais
 
-O código e a documentação original deste repositório estão disponíveis sob a [licença MIT](./LICENSE). As ilustrações conceituais presentes neste README foram criadas especificamente para o Mercantarium com auxílio de IA.
+Copyright © 2026 Gustavo Martins. **Todos os direitos reservados.**
+
+Nenhuma licença de uso, cópia, modificação, distribuição, sublicenciamento ou exploração comercial é concedida pela disponibilização deste repositório. As ilustrações conceituais foram criadas especificamente para o Mercantarium com auxílio de IA e integram o material proprietário do projeto.
 
 <div align="center">
   <p>◈</p>
